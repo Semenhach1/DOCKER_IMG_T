@@ -1,0 +1,6 @@
+telethon
+aiogram==2.13
+requests
+pystyle
+colorama
+aiosqlite
